@@ -1,4 +1,4 @@
-const hello = () => "Hello World from Eric's repo for module 4 CI/CD!";
+const hello = () => "Hello World to Jason from Eric's repo for module 4 CI/CD!";
 console.log(hello());
 exports.hello = hello;
 
